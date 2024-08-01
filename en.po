@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2024-07-26 11:42+0200\n"
+"Last-Translator: Mike Blake <chikoon@macnugget.local>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "How did you do?"
+msgstr "How did you do?"
+
+msgid "Your Score"
+msgstr "Your Score"
+
+msgid "PLAY LEVEL {0}"
+msgstr "PLAY LEVEL {0}"
+
+msgid "Level {0}"
+msgstr "Level {0}"
+
+msgid "Level {0} Bonus Stars"
+msgstr "Level {0} Bonus Stars"
+
+msgid "Tap to shoot when a space ship opens to reveal a star."
+msgstr "Tap to shoot when a space ship opens to reveal a star."
+
+msgid "Earn up to 3 bonus stars in each level!"
+msgstr "Earn up to 3 bonus stars in each level!"
+
+msgid "A bonus star is awarded for 5 consecutive correct answers."
+msgstr "A bonus star is awarded for 5 consecutive correct answers."
+
+msgid "Level 1"
+msgstr "Level 1"
+
+msgid "Level 1 Bonus Stars"
+msgstr "Level 1 Bonus Stars"
+
+msgid "Checking for headset software updates."
+msgstr "Checking for headset software updates."
