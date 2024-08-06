@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2024-07-26 11:42+0200\n"
+"Last-Translator: Mike Blake <chikoon@macnugget.local>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "How did you do?"
+msgstr "كيف أبليت؟?"
+
+msgid "Your Score"
+msgstr "نتيجتك"
+
+msgid "PLAY LEVEL {0}"
+msgstr "مستوى اللعب {0}"
+
+msgid "Level {0}"
+msgstr "المستوى {0}"
+
+msgid "Level {0} Bonus Stars"
+msgstr "المستوى {0} نجوم المكافأة "
+
+msgid "Tap to shoot when a space ship opens to reveal a star."
+msgstr "انقر للتصوير عندما تنفتح سفينة فضائية لتكشف عن نجمة."
+
+msgid "Earn up to 3 bonus stars in each level!"
+msgstr "اربح ما يصل إلى 3 نجوم إضافية في كل مستوى!"
+
+msgid "A bonus star is awarded for 5 consecutive correct answers."
+msgstr "تُمنح نجمة إضافية عند الحصول على 5 إجابات صحيحة متتالية."
+
+msgid "Level 1"
+msgstr "المستوى 1"
+
+msgid "Level 1 Bonus Stars"
+msgstr "نجوم المكافأة من المستوى 1"
+
+msgid "Checking for headset software updates."
+msgstr "التحقق من تحديثات برامج سماعة الرأس."
